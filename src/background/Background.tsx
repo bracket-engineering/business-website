@@ -11,7 +11,7 @@ import {
   Copyright,
 } from '../copyright';
 
-import LogoSVG from '../static/banner-logo.svg';
+import LogoSVG from '../static/banner-logo-font-path.svg';
 
 const useStyles = makeStyles((theme) => ({
   main: {
