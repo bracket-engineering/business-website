@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'start',
-    minHeight: '100vh',
+    height: '100%',
   },
   copyright: {
     marginTop: 'auto',
@@ -30,9 +30,8 @@ const useStyles = makeStyles((theme) => ({
   banner: {
     marginTop: theme.spacing(3),
 
-    maxWidth: '310px',
+    maxWidth: '300px',
     minWidth: '120px',
-    width: '101%',
 
     zIndex: 0,
   },
@@ -47,7 +46,7 @@ export default function Background() {
   const classes = useStyles();
 
   return (
-    <Container component="main" className={classes.main} maxWidth="xl">
+    <Container component="header" className={classes.main} maxWidth="xl">
       <img src={LogoSVG} alt="bracket engineering, inc." className={classes.banner}/>
 
       <Typography variant="body1" color="textSecondary" component="h6" className={classes.content}>

@@ -32,8 +32,6 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
-
-    bottom: '30px',
   },
   mountains: {
     width: '90vw',
