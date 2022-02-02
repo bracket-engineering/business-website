@@ -1,1 +1,1 @@
-## Being smart about smart design
+## [Being smart about smart design]
