@@ -1,7 +1,7 @@
 ## About
 
-Bracket Engineering was incorporated in 2020, and is currently a sole proprietorship
-corporation.
+Bracket Engineering was incorporated as an S Corporation in 2020. We operate out of the
+beautiful state of Colorado.
 
 Our branding and logos are inspired by quantum mechanics, wherein physical quantum
 states are represented by bra-ket notation (introduced in 1939 by theoretical physicist Paul
