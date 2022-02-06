@@ -75,12 +75,12 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/about/"
       [[languages.en.menu.main]]
         identifier = "contact"
         name = "Contact"
-        url = "/contact"
+        url = "/contact/"
       [[languages.en.menu.main]]
         identifier = "services"
         name = "Services"
-        url = "/services"
+        url = "/services/"

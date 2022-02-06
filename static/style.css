@@ -47,3 +47,7 @@
 .footer__inner {
     width: auto;
 }
+
+footer.footer {
+    margin-top: auto;
+}
