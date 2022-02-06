@@ -1,0 +1,44 @@
+.contact-form input,textarea,button {
+    font-family: monospace;
+    width: 324px;
+    color: #fff;
+    background-color: transparent;
+    border-radius: 0;
+    border: 1px solid #fff;
+}
+
+.contact-form input[type=email],
+.contact-form input[type=text] {
+    height: 32px;
+    margin: 8px 0;
+}
+
+.contact-form textarea {
+    height: 240px;
+    margin: 12px 0;
+}
+
+.contact-form input[type=submit],
+.contact-form button[type=submit] {
+    text-transform: uppercase;
+    padding: 10px 60px;
+}
+
+/* Shims */
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #fff;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #fff;
+    opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #fff;
+    opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color:    #fff;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+    color:    #fff;
+}

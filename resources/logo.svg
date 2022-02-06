@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256.0px"
    height="256.0px"
    viewBox="0 0 256.0 256.0"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="icon.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs62">
     <linearGradient
        id="linearGradient3561"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#005b8e;stop-opacity:1;"
          offset="0"
@@ -51,9 +50,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter953"
-       x="-5.5657493e-06"
+       x="-5.5657497e-06"
        width="1.0000111"
-       y="-4.2194746e-06"
+       y="-4.2194748e-06"
        height="1.0000084">
       <feGaussianBlur
          inkscape:collect="always"
@@ -68,19 +67,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="97.387221"
-     inkscape:cy="119.2262"
+     inkscape:zoom="2.8"
+     inkscape:cx="102.85714"
+     inkscape:cy="128.21429"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1052"
-     inkscape:window-x="1935"
-     inkscape:window-y="13"
+     inkscape:window-height="1011"
+     inkscape:window-x="1920"
+     inkscape:window-y="57"
      inkscape:window-maximized="1"
-     showguides="true">
+     showguides="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid71" />
@@ -93,7 +93,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,32 +117,39 @@
        d="M 251.65388,127.21785 189.91308,234.86065 65.821284,235.21296 3.4702801,127.92246 65.211076,20.279653 189.30288,19.927349 Z" />
     <path
        style="fill:none;stroke:#005b8e;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       d="m 180,60 45,70"
+       d="m 208,60 45,70"
        id="path96-3" />
     <path
        style="fill:#005b8e;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       d="M 222.18405,128.8326 C 199.83026,163.60516 180,200 180,200 c 0,0 24.87733,-33.15029 47.23112,-67.92285 l 0.29241,-0.45487 -5.04707,-3.24455 z"
+       d="M 250.18405,128.8326 C 227.83026,163.60516 208,200 208,200 c 0,0 24.87733,-33.15029 47.23112,-67.92285 l 0.29241,-0.45487 -5.04707,-3.24455 z"
        id="path98-6"
        inkscape:path-effect="#path-effect1283"
-       inkscape:original-d="m 180,200 45,-70" />
+       inkscape:original-d="m 208,200 45,-70" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Estrangelo Antioch';-inkscape-font-specification:'Estrangelo Antioch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:90;opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter953)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.5314px;line-height:1.25;font-family:'Estrangelo Antioch';-inkscape-font-specification:'Estrangelo Antioch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:90;opacity:0.998;fill:#005b8e;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter953)"
        x="80"
        y="110"
        id="text120"
-       transform="matrix(2.1687232,0,0,2.1687232,-105.89704,-48.890585)"><tspan
+       transform="matrix(2.1687232,0,0,2.1687232,-132.30392,-77.698499)"><tspan
          x="80"
-         y="110"><tspan>b</tspan></tspan></text>
+         y="110"
+         id="tspan93013"><tspan
+           style="fill:#000000"
+           id="tspan93007">b</tspan><tspan
+           style="font-size:59.0209px"
+           id="tspan93009">|</tspan><tspan
+           style="fill:#000000"
+           id="tspan93011">e</tspan></tspan></text>
     <path
        style="fill:none;stroke:#005b8e;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       d="m 75.31764,196.91849 -45,-70"
+       d="m 49.31764,196.91849 -45,-70"
        id="path96-3-0" />
     <path
        style="fill:#005b8e;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 33.133594,128.08589 C 55.487385,93.313328 75.31764,56.918494 75.31764,56.918494 c 0,0 -24.877326,33.150289 -47.231117,67.922846 l -0.292414,0.45487 5.047071,3.24455 z"
+       d="M 7.1335939,128.08589 C 29.487385,93.313328 49.31764,56.918494 49.31764,56.918494 c 0,0 -24.877326,33.150289 -47.2311168,67.922846 l -0.2924141,0.45487 5.0470708,3.24455 z"
        id="path98-6-2"
        inkscape:path-effect="#path-effect1305"
-       inkscape:original-d="m 75.31764,56.918494 -45,69.999996" />
+       inkscape:original-d="m 49.31764,56.918494 -45,69.999996" />
   </g>
 </svg>
