@@ -42,3 +42,8 @@
 ::-ms-input-placeholder { /* Microsoft Edge */
     color:    #fff;
 }
+
+/* Theme overrides */
+.footer__inner {
+    width: auto;
+}
