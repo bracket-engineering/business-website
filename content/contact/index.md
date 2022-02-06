@@ -1,7 +1,7 @@
 # Contact
 
 {{< rawhtml >}}
-    <form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true">
+    <form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true" netlify>
         <input type="hidden" name="form-name" value="contact" />
         <!-- Text input-->
         <div class="form-group">
