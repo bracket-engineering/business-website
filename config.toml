@@ -2,7 +2,9 @@ baseurl = "/"
 languageCode = "en-us"
 title = 'Bracket Engineering'
 theme = "terminal"
-paginate = 5
+
+[pagination]
+  pagerSize = 5
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -55,10 +57,10 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Bracket Engineering"
-    subtitle = "System Design with a focus on the Internet of Things (IoT)."
+    subtitle = "System Design and Computational Engineering."
     owner = ""
     keywords = ""
-    copyright = "© 2022 Bracket Engineering, Inc."
+    copyright = "© 2025 Bracket Engineering, Inc."
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -73,14 +75,6 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about/"
-      [[languages.en.menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact/"
-      [[languages.en.menu.main]]
-        identifier = "services"
-        name = "Services"
-        url = "/services/"
