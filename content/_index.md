@@ -19,7 +19,7 @@ execution. When you're ready for your idea to change the world,
 
 Bracket Engineering was founded by Jonathan Thompson, a former startup CTO and senior 
 software engineer with over 10 years of experience in high-velocity feature development 
-and robust systems engineering. Jonathan holds an M.S. in Applied Mathematics and is 
+and robust systems engineering. Jonathan holds an MS in Applied Mathematics and is 
 currently sharpening his theoretical foundations through his work toward a PhD in 
 Computational Mathematics from Stanford University.
 
