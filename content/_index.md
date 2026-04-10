@@ -1,9 +1,9 @@
 # It's a scale issue!
 
-Bracket Engineering is a bespoke software consulting firm with strong expertise bridging
-the gap between experiment and production. Whether your dream requires real-time data 
-analysis or cutting-edge AI, we'll work with you to make sure your prototype is ready to 
-face the ultimate test: end users.
+Bracket Engineering is a bespoke software contracting firm with strong expertise bridging
+the gap between experiment and production in data-driven real-time systems. Whether your 
+dream requires cutting-edge AI or intense time-series data ingestion, we'll work with 
+you to make sure your prototype is ready to face the ultimate test: end users.
 
 Our primary strengths are:
 
@@ -11,9 +11,16 @@ Our primary strengths are:
 - Research-to-Production Engineering
 - Algorithmic and Computational Consulting
 
+Past work has focused on the following domains:
+
+- Commercial-scale IoT device deployment for fine-grained building automation and control.
+- Multi-network sensor data aggregation, time series analysis, and anomaly detection.
+- Human-in-the-loop custom AI agent systems to assist support specialists and domain 
+  experts during customer-facing work.
+- Automated quality assurance tools for manufacturing lines.
+
 World-changing software requires both production discipline and novel algorithmic 
-execution. When you're ready for your idea to change the world, 
-[let us know](/contact).
+execution. When you're ready for your idea to change the world, [let us know](/contact).
 
 ## About
 
